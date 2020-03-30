@@ -28,3 +28,8 @@ PRODUCT_MODEL := MI Cancro
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 TARGET_CONTINUOUS_SPLASH_ENABLED := true
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    PRIVATE_BUILD_DESC="cancro-user 6.0.1 MMB29M V8.1.6.0.MXDMIDI release-keys"
+
+BUILD_FINGERPRINT := Xiaomi/cancro/cancro:6.0.1/MMB29M/V8.1.6.0.MXDMIDI:user/release-keys
