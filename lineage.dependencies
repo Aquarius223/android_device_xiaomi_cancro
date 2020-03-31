@@ -1,10 +1,14 @@
 [
  {
-   "repository": "android_device_xiaomi_msm8974-common",
+   "remote"     : "github"
+   "repository" : "vikash1994b/android_device_xiaomi_msm8974-common",
    "target_path": "device/xiaomi/msm8974-common"
+   "branch"     : "lineage-17.1"
  },
  {
-   "repository": "android_vendor_xiaomi_cancro",
+   "remote"     : "github"
+   "repository" : "xiaomi-classic-dev/android_vendor_xiaomi_cancro",
    "target_path": "vendor/xiaomi/cancro"
+   "branch"     : "mkq-mr1"
  }
 ]
