@@ -143,8 +143,7 @@ void vendor_load_properties()
             property_set("telephony.lteOnGSMDevice", "1");
             break;
         default:
-            // Other unsupported variants
-            property_override_dual("ro.product.model", "ro.vendor.product.model", "Unsupported MI Cancro");
+            property_override_dual("ro.product.model", "ro.vendor.product.model", "MI 4");
             break;
     }
 
