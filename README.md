@@ -19,7 +19,7 @@ Memory  | 2GB RAM                           | 3GB RAM
 Shipped Android Version | 4.3 up to 6.0.1 | 4.4.4 up to 6.0.1 
 Storage | 16/64GB                           | 16/64GB
 Battery | 3050 mAh                          | 3080 mAh
-Display | 5.0" 1920 x 1080 px               | 5.0" 1920 x 1080px
+Display | 5.0" 1920 x 1080 px 60Hz               | 5.0" 1920 x 1080px 60Hz
 Camera  | 13MPx, LED Flash                  | 13MPx, LED Flash
 
 ![Xiaomi Mi3](http://cdn.gsmarena.com/vv/reviewsimg/xiaomi-mi-3/gal/gsmarena_004.jpg "Xiaomi Mi3 in black")
